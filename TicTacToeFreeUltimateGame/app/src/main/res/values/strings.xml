@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tic Tac Toe - Free Ultimate Game</string>
+    <string name="score_o_0">Score O : 0</string>
+    <string name="score_x_0">Score X : 0</string>
+    <string name="reset">Reset</string>
+</resources>
